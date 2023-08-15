@@ -1,2 +1,2 @@
-# tuturialJavaEE
+# tutorialJavaEE
 Curso de udemy
